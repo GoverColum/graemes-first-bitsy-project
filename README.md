@@ -4,7 +4,7 @@ A short Bitsy game adapted from a single scene from Apocalypse Now.
 
 ##About
 
-This game is based on the scene from the movie (from 53:14 to about 58:00) in which Captain Willard is accompanying Chef on an ill-advised search for mangos in the Vietnamese jungles in the middle of a war. The two of them do not find any mangos and are chased out by a tiger. My goal is to capture the essence of this one scene in a Bitsy game.
+This game is based on the scene from the [movie](https://youtu.be/Pg1SOfiO1So?t=3196) (from 53:14 to about 58:00) in which Captain Willard is accompanying Chef on an ill-advised search for mangos in the Vietnamese jungles in the middle of a war. The two of them do not find any mangos and are chased out by a tiger. My goal is to capture the essence of this one scene in a Bitsy game.
 
 ##Design Notes and Ideas
 
